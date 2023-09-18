@@ -1,0 +1,113 @@
+---
+object: card
+id: 8c6b2642-4d17-4c0b-a3c3-b29d5ffdfbf8
+oracle_id: 74d3277a-38e5-4732-afed-084a56148f20
+multiverse_ids: []
+tcgplayer_id: 119727
+cardmarket_id: 287641
+name: Mana Drain
+lang: en
+released_at: '2016-01-01'
+uri: https://api.scryfall.com/cards/8c6b2642-4d17-4c0b-a3c3-b29d5ffdfbf8
+scryfall_uri: https://scryfall.com/card/j16/2/mana-drain?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/c/8c6b2642-4d17-4c0b-a3c3-b29d5ffdfbf8.jpg?1561757543
+  normal: https://cards.scryfall.io/normal/front/8/c/8c6b2642-4d17-4c0b-a3c3-b29d5ffdfbf8.jpg?1561757543
+  large: https://cards.scryfall.io/large/front/8/c/8c6b2642-4d17-4c0b-a3c3-b29d5ffdfbf8.jpg?1561757543
+  png: https://cards.scryfall.io/png/front/8/c/8c6b2642-4d17-4c0b-a3c3-b29d5ffdfbf8.png?1561757543
+  art_crop: https://cards.scryfall.io/art_crop/front/8/c/8c6b2642-4d17-4c0b-a3c3-b29d5ffdfbf8.jpg?1561757543
+  border_crop: https://cards.scryfall.io/border_crop/front/8/c/8c6b2642-4d17-4c0b-a3c3-b29d5ffdfbf8.jpg?1561757543
+mana_cost: "{U}{U}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Counter target spell. At the beginning of your next main phase, add an
+  amount of {C} equal to that spell's mana value.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a3490e7b-791b-4ed3-bd0c-6fb19b819150
+set: j16
+set_name: Judge Gift Cards 2016
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a3490e7b-791b-4ed3-bd0c-6fb19b819150
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aj16&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/j16?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8c6b2642-4d17-4c0b-a3c3-b29d5ffdfbf8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74d3277a-38e5-4732-afed-084a56148f20&unique=prints
+collector_number: '2'
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: |-
+  "Power is wasted on the weak. They never keep it for long."
+  —Nicol Bolas
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mike Bierek
+artist_ids:
+- e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7
+illustration_id: ca175dbc-35ca-40fe-a90c-cfe215a6f400
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- judgegift
+edhrec_rank: 99
+prices:
+  usd: 
+  usd_foil: '126.93'
+  usd_etched: 
+  eur: 
+  eur_foil: '124.90'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mana+Drain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mana+Drain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mana+Drain
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/119727?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mana+Drain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mana+Drain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
